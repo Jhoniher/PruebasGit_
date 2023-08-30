@@ -9,5 +9,6 @@ package datosgeometricos;
  * @author Jhony
  */
 public class Circulo {
-    
+    return a+b;
+    //Descripcion agregada;
 }

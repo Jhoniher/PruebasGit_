@@ -9,5 +9,5 @@ package datosgeometricos;
  * @author Jhony
  */
 public class Cuadrado {
-    
+    //a+b;
 }

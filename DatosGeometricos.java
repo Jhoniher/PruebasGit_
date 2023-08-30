@@ -10,7 +10,7 @@ public class DatosGeometricos {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int base, altura, largo, ancho;
-        short pi, radio;
+        short pi, radio; //Cambio hecho
     }
     
 }
